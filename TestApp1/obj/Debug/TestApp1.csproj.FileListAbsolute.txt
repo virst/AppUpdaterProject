@@ -1,0 +1,10 @@
+D:\tmp\AppUpdaterService\TestApp1\bin\Debug\img\1.jpg
+D:\tmp\AppUpdaterService\TestApp1\bin\Debug\img\2.jpg
+D:\tmp\AppUpdaterService\TestApp1\bin\Debug\img\3.jpg
+D:\tmp\AppUpdaterService\TestApp1\bin\Debug\nedra.db
+D:\tmp\AppUpdaterService\TestApp1\bin\Debug\TestApp1.bim
+D:\tmp\AppUpdaterService\TestApp1\bin\Debug\TestApp1.exe
+D:\tmp\AppUpdaterService\TestApp1\bin\Debug\TestApp1.pdb
+D:\tmp\AppUpdaterService\TestApp1\obj\Debug\TestApp1.csprojAssemblyReference.cache
+D:\tmp\AppUpdaterService\TestApp1\obj\Debug\TestApp1.exe
+D:\tmp\AppUpdaterService\TestApp1\obj\Debug\TestApp1.pdb

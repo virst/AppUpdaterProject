@@ -1,0 +1,31 @@
+﻿{
+  "AppName": "TestApp1",
+  "Files": [
+    {
+      "ActualRevision": null,
+      "FilePath": ".\\TestApp1.exe",
+      "Runable": true
+    },
+    {
+      "ActualRevision": null,
+      "FilePath": ".\\img\\1.jpg"
+    },
+    {
+      "ActualRevision": null,
+      "FilePath": ".\\img\\2.jpg"
+    },
+    {
+      "ActualRevision": null,
+      "FilePath": ".\\img\\3.jpg"
+    },
+    {
+      "ActualRevision": null,
+      "FilePath": ".\\TestApp1.bim"
+    },
+    {
+      "ActualRevision": null,
+      "FilePath": ".\\nedra.db"
+    }
+  ],
+  "Splitter": ";"
+}

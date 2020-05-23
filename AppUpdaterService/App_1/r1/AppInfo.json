@@ -1,0 +1,11 @@
+﻿{
+  "AppName": "TestApp1",
+  "Files": [
+    {"FilePath": ".\\TestApp1.exe","Runable": true    },
+    {"FilePath": ".\\img\\1.jpg"},
+    {"FilePath": ".\\img\\2.jpg"},
+    {"FilePath": ".\\img\\3.jpg"},
+    {"FilePath": ".\\TestApp1.bim"},
+    {"FilePath": ".\\nedra.db"}
+  ]
+}
