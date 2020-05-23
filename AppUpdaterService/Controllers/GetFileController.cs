@@ -26,8 +26,7 @@ namespace AppUpdaterService.Controllers
         public IActionResult Get(string app, int fn)
         {
             var a = Program.Ai[app];
-            string fl =
-            Path.Combine(a.DirectoryPath, a.Files[fn].FilePath.TrimStart('.').TrimStart(a.Splitter));
+            string fl = a.GetFilePath(fn);
             Stream stream = File.OpenRead(fl);
             string mimeType = "application/bin";
             return new FileStreamResult(stream, mimeType)

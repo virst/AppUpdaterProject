@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\tmp\\AppUpdaterService\\AppUpdaterService\\AppUpdaterService.csproj",
+      "projectUniqueName": "C:\\Users\\MVi\\source\\repos\\AppUpdaterProject\\AppUpdaterService\\AppUpdaterService.csproj",
       "projectName": "AppUpdaterService",
-      "projectPath": "D:\\tmp\\AppUpdaterService\\AppUpdaterService\\AppUpdaterService.csproj",
+      "projectPath": "C:\\Users\\MVi\\source\\repos\\AppUpdaterProject\\AppUpdaterService\\AppUpdaterService.csproj",
       "packagesPath": "C:\\Users\\MVi\\.nuget\\packages\\",
-      "outputPath": "D:\\tmp\\AppUpdaterService\\AppUpdaterService\\obj\\",
+      "outputPath": "C:\\Users\\MVi\\source\\repos\\AppUpdaterProject\\AppUpdaterService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",
